@@ -1,0 +1,7 @@
+data/
+project/
+raw/
+resources/
+.DS_Store
+.ipynb_checkpoints/
+.idea
